@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66a8f1878cb212f7895b2ef1"
+  },
+  "comment": "test",
+  "rate": 3,
+  "userId": {
+    "$oid": "668f7d1be0bee0e2427e310e"
+  },
+  "productId": {
+    "$oid": "668e9aa6bd324edccaddd092"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a8f1a08cb212f7895b2efa"
+  },
+  "comment": "test",
+  "rate": 2,
+  "userId": {
+    "$oid": "668f7d1be0bee0e2427e310e"
+  },
+  "productId": {
+    "$oid": "668e9aa6bd324edccaddd092"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aaf665ecc0cc58b75cf6d6"
+  },
+  "comment": "test comment admin 2",
+  "rate": 5,
+  "userId": {
+    "$oid": "668f7d65e0bee0e2427e3115"
+  },
+  "productId": {
+    "$oid": "668e9aa6bd324edccaddd092"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb5c75e50d668b1e8f52b7"
+  },
+  "comment": "oke",
+  "rate": 5,
+  "userId": {
+    "$oid": "668f7d65e0bee0e2427e3115"
+  },
+  "productId": {
+    "$oid": "668e9aa6bd324edccaddd092"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cb8005ac0ab0e18d8f4699"
+  },
+  "comment": "oke",
+  "rate": 5,
+  "userId": {
+    "$oid": "668f7d65e0bee0e2427e3115"
+  },
+  "productId": {
+    "$oid": "6688025dbaefa5eb4a48ddcc"
+  },
+  "__v": 0
+}]

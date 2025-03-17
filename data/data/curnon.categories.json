@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "name": "Đồng hồ nam",
+  "gender": "Nam",
+  "order": 1,
+  "menuId": {
+    "$oid": "66968d2a8675a1be4a653de0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66969dec8675a1be4a653e01"
+  },
+  "name": "Đồng hồ nữ",
+  "gender": "Nữ",
+  "order": 1,
+  "menuId": {
+    "$oid": "66969dc58675a1be4a653dff"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66969fe68675a1be4a653e14"
+  },
+  "name": "Charm ",
+  "gender": "Nu",
+  "order": 1,
+  "menuId": {
+    "$oid": "66969fa78675a1be4a653e12"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696a06c8675a1be4a653e19"
+  },
+  "name": "Sicily ",
+  "gender": "Nu",
+  "order": 1,
+  "menuId": {
+    "$oid": "66969dec8675a1be4a653e01"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733726a002f11df979a821e"
+  },
+  "name": "test 2",
+  "gender": "Male",
+  "order": 1,
+  "menuId": "66ab1453ecc0cc58b75cf9a0",
+  "__v": 0
+}]

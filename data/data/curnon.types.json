@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "66968db78675a1be4a653de4"
+  },
+  "name": "Kashmir",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Kashmir-2000px-1x1-1-e1709626424658-1536x1536.png"
+},
+{
+  "_id": {
+    "$oid": "66969e6e8675a1be4a653e08"
+  },
+  "name": "Sicily",
+  "categoryId": {
+    "$oid": "66969dc58675a1be4a653dff"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66969f078675a1be4a653e0d"
+  },
+  "name": "Kashmir",
+  "categoryId": {
+    "$oid": "66968d2a8675a1be4a653de0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696a0368675a1be4a653e16"
+  },
+  "name": "Ring",
+  "categoryId": {
+    "$oid": "66969fe68675a1be4a653e14"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696a08f8675a1be4a653e1c"
+  },
+  "name": "Sicily",
+  "categoryId": {
+    "$oid": "66969dec8675a1be4a653e01"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696a0da8675a1be4a653e1f"
+  },
+  "name": "Weimar",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Weimar-2000px-1x1-1-e1709626333481-1536x1536.png"
+},
+{
+  "_id": {
+    "$oid": "6696a2ce8675a1be4a653e24"
+  },
+  "name": "Colosseum",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Colosseum-2000px-1x1-1-e1709626214753-1536x1536.png"
+},
+{
+  "_id": {
+    "$oid": "6696a5e18675a1be4a653e27"
+  },
+  "name": "Jackson",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Watches-Line-Art-Jackson-09-e1709626127433-768x768.png"
+},
+{
+  "_id": {
+    "$oid": "6696a6258675a1be4a653e29"
+  },
+  "name": "Detroit",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Detroit2000px-1x1-2-e1709626557793-1536x1536.png"
+},
+{
+  "_id": {
+    "$oid": "6696a62e8675a1be4a653e2b"
+  },
+  "name": "Futura",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Futura-2000px-1x1-1-e1709626001368-1536x1536.png"
+},
+{
+  "_id": {
+    "$oid": "6696a63f8675a1be4a653e2d"
+  },
+  "name": "Whitesands",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/Whitesands-2000x2000-1-e1709625348869.png"
+},
+{
+  "_id": {
+    "$oid": "6696a64e8675a1be4a653e2f"
+  },
+  "name": "G-Forks",
+  "categoryId": {
+    "$oid": "66968d748675a1be4a653de2"
+  },
+  "__v": 0,
+  "image": "https://curnonwatch.com/wp-content/uploads/2024/03/GFORKS-1000px-15-e1709625915392-600x600.png"
+},
+{
+  "_id": {
+    "$oid": "6696a6958675a1be4a653e32"
+  },
+  "name": "Aurora",
+  "categoryId": {
+    "$oid": "66969dec8675a1be4a653e01"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696a6a48675a1be4a653e34"
+  },
+  "name": "Melissani",
+  "categoryId": {
+    "$oid": "66969dec8675a1be4a653e01"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6696a6b28675a1be4a653e36"
+  },
+  "name": "Moraine",
+  "categoryId": {
+    "$oid": "66969dec8675a1be4a653e01"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a7a229a80beca41f912877"
+  },
+  "name": "Vòng tay",
+  "categoryId": {
+    "$oid": "66969fe68675a1be4a653e14"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ab1b72ecc0cc58b75cfa88"
+  },
+  "name": "Vòng chân",
+  "categoryId": "66969fe68675a1be4a653e14",
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ab4f30deb2918d5e8648a1"
+  },
+  "name": "Dây vải",
+  "categoryId": {
+    "$oid": "66ab4f16deb2918d5e86489d"
+  },
+  "image": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337412002f11df979a823d"
+  },
+  "name": "test type 3",
+  "categoryId": "6733726a002f11df979a821e",
+  "image": "",
+  "__v": 0
+}]

@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "668f7d1be0bee0e2427e310e"
+  },
+  "type": "LOCAL",
+  "displayName": "Admin Demo",
+  "username": "admin",
+  "password": "$2b$10$B3gxJNyrSi6eWKxPDd6eLucuBG2curqSjjbb/fXGpqRkq/45yOMr2",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "0982201057",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjhmN2QxYmUwYmVlMGUyNDI3ZTMxMGUiLCJpYXQiOjE3Mzg1MDczMzQsImV4cCI6MTczOTExMjEzNH0.yVMaqO0FDIlJX758r1m20Mfpo_w_buRqanSSyxb6GkM",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjhmN2QxYmUwYmVlMGUyNDI3ZTMxMGUiLCJpYXQiOjE3Mzg1MDczMzQsImV4cCI6MTczODUzNjEzNH0.6gLa3z0aXlRZ1ks6oZYAkecOUutDrD7pJcl0QCFHh3U",
+  "createdAt": {
+    "$date": "2024-07-11T06:35:07.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-02T14:42:14.610Z"
+  },
+  "__v": 0,
+  "address": "Tay Mo, Nam Tu Liem, Ha Noi",
+  "addressDetail": "Số 1234",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "668f7d65e0bee0e2427e3115"
+  },
+  "type": "LOCAL",
+  "displayName": "admin2",
+  "username": "admin2",
+  "password": "$2b$10$00MAHpwCPI8DzBFW5YZekuEK4fyUfeME4GL7zOJf.V.m7q3kB0Hse",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "0982201057",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjhmN2Q2NWUwYmVlMGUyNDI3ZTMxMTUiLCJpYXQiOjE3Mzg1OTM0NDQsImV4cCI6MTczOTE5ODI0NH0.nZ1imDfWpROxV_yMm38Wtv_61oLftUg9gebRN4N9z9E",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjhmN2Q2NWUwYmVlMGUyNDI3ZTMxMTUiLCJpYXQiOjE3Mzg1OTM0NDQsImV4cCI6MTczODYyMjI0NH0.1760GxVT0X57jL-jD3g1VbQCYPImcNypGm-NjrJgvqg",
+  "createdAt": {
+    "$date": "2024-07-11T06:36:21.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T14:37:24.815Z"
+  },
+  "__v": 0,
+  "address": "Ngu Hiep, Thanh Tri, Ha Noi",
+  "addressDetail": " So 123"
+},
+{
+  "_id": {
+    "$oid": "672f319bd83374ffac4fcdd0"
+  },
+  "type": "LOCAL",
+  "displayName": "admindemo",
+  "username": "admindemo",
+  "password": "$2b$10$R9OaBoy5jmYsIavok65EUOsdL2KWbeax0uJWmwyx743uehHRv/4Qy",
+  "avaUrl": "http://localhost:5000/api/uploads/avatar/user_avatar_default.png",
+  "contactPhone": "",
+  "address": "",
+  "addressDetail": "",
+  "facebookId": "",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzJmMzE5YmQ4MzM3NGZmYWM0ZmNkZDAiLCJpYXQiOjE3MzExNDYxNTYsImV4cCI6MTczMTc1MDk1Nn0.bh8HvUNNzIhPCB7KNmi7JAvOc0xoacWVLaI_2qsYoyc",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzJmMzE5YmQ4MzM3NGZmYWM0ZmNkZDAiLCJpYXQiOjE3MzExNDYxNTYsImV4cCI6MTczMTE3NDk1Nn0.Ab1s2sdBTv0MSWOhiqv2uPo8ZtabcwfNsa7PknA1UPc",
+  "role": "member",
+  "createdAt": {
+    "$date": "2024-11-09T09:55:39.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-09T09:55:56.694Z"
+  },
+  "__v": 0
+}]

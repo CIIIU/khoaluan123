@@ -1,0 +1,757 @@
+[{
+  "_id": {
+    "$oid": "66880247baefa5eb4a48ddca"
+  },
+  "name": "2 Mile",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/06/2-Mile-1.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/06/NGO06970-1-e1717429748128.jpg"
+  ],
+  "description": "Đồng hồ nam Curnon Detroit 2 Mile có thiết kế đậm chất đường phố bụi bặm dành cho người trẻ Việt; Dây kim loại thép không gỉ, Mặt kính Sapphire chống trầy xước, Chống nước 5ATM",
+  "originalPrice": 3300000,
+  "salePrice": 3059000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "66968db78675a1be4a653de4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688025dbaefa5eb4a48ddcc"
+  },
+  "name": "Lakota",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/05/web-apache-da-1.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Gfork9896-e1708865526865.png"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2299000,
+  "salePrice": 1199000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c075adfd6816d11bcaa01"
+  },
+  "name": "Metroliner",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/05/web-nighthawk-da-1.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/05/Gfork10201-e1715069484260.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2290000,
+  "salePrice": 2159000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c0760dfd6816d11bcaa03"
+  },
+  "name": "Classic",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/04/Classic-1.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/04/Classic-3-1.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2399000,
+  "salePrice": 2159000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c0765dfd6816d11bcaa05"
+  },
+  "name": "Rise",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/G.Rise1111.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/ANN_8626-e1708398277706-2048x2048.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2499000,
+  "salePrice": 2249000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "66968db78675a1be4a653de4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c0769dfd6816d11bcaa07"
+  },
+  "name": "Mortar",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Motar865.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/DSC_2786-e1708833465216-2048x2048.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2999999,
+  "salePrice": 2699000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c076edfd6816d11bcaa09"
+  },
+  "name": "US-12",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/US12-016547.png",
+    "https://curnonwatch.com/dong-ho-nam-detroit-us12/"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 3399000,
+  "salePrice": 3059000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c0774dfd6816d11bcaa0b"
+  },
+  "name": "8 Mile",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/8mile-01765335.png",
+    "https://curnonwatch.com/dong-ho-nam-detroit-8mile/"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 3099000,
+  "salePrice": 2789000,
+  "dialSize": 42,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668c0779dfd6816d11bcaa0d"
+  },
+  "name": "US-16",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/US16-01.765.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/ANN_1776-copy-e1708844652601-1961x2048.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 3099000,
+  "salePrice": 2789000,
+  "dialSize": 38,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d4506223251abdb35c9dc"
+  },
+  "name": "M-53",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/web-thunderbolt-du%CC%80-1.765.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/DSC07181-e1708846073263.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 3399000,
+  "salePrice": 3059000,
+  "dialSize": 42,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e9a5cbd324edccaddd082"
+  },
+  "name": "Thunderbolt",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/web-apache-du%CC%80-1.765.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Gfork9896-e1708865526865.png"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2299000,
+  "salePrice": 1199000,
+  "dialSize": 38,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e9a5dbd324edccaddd084"
+  },
+  "name": "Apache",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/1_Brown4.87654.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/ANN5925-copyy-e1708860937660-2048x2048.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2299000,
+  "salePrice": 1199000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e9a5ebd324edccaddd086"
+  },
+  "name": "Nighthawk",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/web-nighthawk-du%CC%80-1.87654.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Gfork10201-e1708865869307.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 2299000,
+  "salePrice": 1199000,
+  "dialSize": 42,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e9a5fbd324edccaddd088"
+  },
+  "name": "Wander",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/1_Blue5.34546.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/ANN5967-copy-e1708861033763.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 1899000,
+  "salePrice": 1519000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6696a0da8675a1be4a653e1f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e9a60bd324edccaddd08a"
+  },
+  "name": "Range",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/T3-6-min.5334.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/ANN6522-copy-e1708862597464.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 1899000,
+  "salePrice": 1519000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6683ad730ea372222e00d416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e9aa4bd324edccaddd090"
+  },
+  "name": "Aspire ",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/T5-3-min.765.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/DSC6301-copy-e1708861792444.jpg"
+  ],
+  "description": "A stylish and elegant watch suitable for all occasions.",
+  "originalPrice": 1899000,
+  "salePrice": 1519000,
+  "dialSize": 40,
+  "thickness": 10,
+  "dialColor": "Black",
+  "movementType": "Automatic",
+  "strapSize": 20,
+  "waterResistance": "5 ATM",
+  "glassMaterial": "Sapphire Crystal",
+  "strapMaterial": "Leather",
+  "typeId": {
+    "$oid": "6696a6958675a1be4a653e32"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fbcd0fadcc508e9636e2"
+  },
+  "name": "Ivy Bracelet",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/07/BEIGE-JN-Cuff-3-scaled.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/07/BEIGE-JN-Cuff-2-scaled.jpg"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 339000,
+  "dialSize": 32,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fc440fadcc508e9636f0"
+  },
+  "name": "J&N Wing Cuff",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Cleo.RG1_.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Cleo.RG3_.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 349000,
+  "dialSize": 32,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fc7a0fadcc508e9636f4"
+  },
+  "name": "Amelia",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/03/Ivy.SR_-1.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 329000,
+  "dialSize": 34,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fcd20fadcc508e9636f8"
+  },
+  "name": "Alice",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Alice-Front.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Alice-Side.jpg"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 429000,
+  "salePrice": 399000,
+  "dialSize": 36,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fd070fadcc508e9636fc"
+  },
+  "name": "Fiona",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Doris.RG_.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 339000,
+  "dialSize": 32,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fd5b0fadcc508e963700"
+  },
+  "name": "Stella",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Amber.RG_-3.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Amber.RG2_-1.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 449000,
+  "salePrice": 400000,
+  "dialSize": 34,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fd7d0fadcc508e963704"
+  },
+  "name": "Sereia",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Silver-Amelia-Front.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Silver-Amelia-Side.jpg"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 439000,
+  "salePrice": 400000,
+  "dialSize": 34,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fda10fadcc508e963708"
+  },
+  "name": "Cleo",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Vo%CC%80ng-tay-Julia-RG-1.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Sincera-022-1.jpg"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 300000,
+  "dialSize": 34,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fdcb0fadcc508e96370c"
+  },
+  "name": "Ella",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/07/BEIGE-JN-bracelet-1-scaled.jpg",
+    "https://curnonwatch.com/wp-content/uploads/2024/07/BEIGE-JN-bracelet-3-scaled.jpg"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 499000,
+  "salePrice": 449000,
+  "dialSize": 40,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fdef0fadcc508e963710"
+  },
+  "name": "Julia",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Helena325243-1.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Helena-Detail.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 499000,
+  "salePrice": 459000,
+  "dialSize": 40,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fe3a0fadcc508e963714"
+  },
+  "name": "Rachel",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Eleni-S1.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Eleni-S.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 300000,
+  "dialSize": 38,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fe590fadcc508e963718"
+  },
+  "name": "Chiara",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Luna.S-4.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 300000,
+  "dialSize": 36,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fe890fadcc508e96371c"
+  },
+  "name": "Amber",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Gwen-3.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Gwen.jpg"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 399000,
+  "salePrice": 300000,
+  "dialSize": 32,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2fea70fadcc508e963720"
+  },
+  "name": "Amelia",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Chiara-S.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Chiara-Detail-S.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 499000,
+  "salePrice": 449000,
+  "dialSize": 32,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2feb80fadcc508e963724"
+  },
+  "name": "Juliata",
+  "images": [
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Rosie.RG1_.png",
+    "https://curnonwatch.com/wp-content/uploads/2024/02/Rosie.RG3_.png"
+  ],
+  "description": "Curnon bracelets are the perfect blend of style and quality.",
+  "descriptionFull": "Curnon bracelets are a timeless addition to any jewelry collection. Crafted with the finest materials and inspired by Vietnamese heritage, our bracelets offer a unique blend of style and quality that will elevate your everyday look.",
+  "originalPrice": 499000,
+  "salePrice": 449000,
+  "dialSize": 32,
+  "thickness": 40,
+  "dialColor": "Đen",
+  "movementType": "Pin",
+  "strapSize": 40,
+  "waterResistance": "Có",
+  "glassMaterial": "Không",
+  "strapMaterial": "Thép không gỉ",
+  "typeId": "66a7a229a80beca41f912877",
+  "__v": 0
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66968d2a8675a1be4a653de0"
+  },
+  "name": "Nam",
+  "order": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66969dc58675a1be4a653dff"
+  },
+  "name": "Nữ",
+  "order": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66969fa78675a1be4a653e12"
+  },
+  "name": "Quà Tặng",
+  "order": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ab1453ecc0cc58b75cf9a0"
+  },
+  "name": "BEST SELLERS",
+  "order": 4,
+  "__v": 0
+}]
