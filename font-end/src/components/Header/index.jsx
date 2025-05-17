@@ -135,7 +135,7 @@ function Header(props) {
                         {isAdmin ? (
                             <>
                                 <IconButton
-                                    size='large'
+                                    size='medium'
                                     color='inherit'
                                     onClick={handleAdminClick}
                                 >
@@ -151,14 +151,14 @@ function Header(props) {
                         ) : (
                             <>
                                 <IconButton
-                                    size='large'
+                                    size='medium'
                                     color='inherit'
                                     onClick={handleSearchClick}
                                 >
                                     <Search />
                                 </IconButton>
                                 <IconButton
-                                    size='large'
+                                    size='medium'
                                     color='inherit'
                                     onClick={handleCartClick}
                                 >

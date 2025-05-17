@@ -24,6 +24,7 @@ import ProductReviews from "../pages/Product/components/ProductReviews";
 import SuggestedProducts from "../pages/Product/components/SuggestedProducts ";
 import DetailPage from "../pages/Product/pages/DetailPage";
 import Test from "../pages/Test/Test";
+import RevenueManagement from "../admin/pages/RevenueManagement";
 
 export const routes = [
     { 
@@ -54,6 +55,10 @@ export const routes = [
               path: 'orders',
               page: OrderManagement,
             },
+            {
+              path: 'statistics/revenue',
+              page: RevenueManagement,
+            },
           ],
     },
     { 
@@ -82,6 +87,10 @@ export const routes = [
               page: ProductDescription,
             },
             {
+              path: 'statistics/revenue',
+              page: RevenueManagement,
+            },
+            {
               path: 'additional',
               page: ProductAdditional,
             },
@@ -89,6 +98,7 @@ export const routes = [
               path: 'reviews',
               page: ProductReviews,
             },
+
           ],
     },
     { 

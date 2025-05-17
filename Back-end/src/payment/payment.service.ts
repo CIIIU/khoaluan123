@@ -37,7 +37,7 @@ export class PaymentService {
       mac: '',
       // cho url vào đây
       callback_url:
-      'https://c9a4-118-71-137-172.ngrok-free.app/api/payment/zalopayCallback',
+      '  https://b3a5-42-113-220-47.ngrok-free.app/api/payment/zalopayCallback',
     };
 
     // appid|app_trans_id|appuser|amount|apptime|embeddata|item

@@ -46,7 +46,8 @@ export default function App() {
   const user = useSelector((state) => state.user.current);
 
   return (
-    <Router>
+    <ErrorBoundary>
+       <Router>
       <Routes>
         {routes.map((route, index) => {
           const Page = route.page;
@@ -99,5 +100,36 @@ export default function App() {
         <Route path="*" element={<Navigate to="/not-found" />} />
       </Routes>
     </Router>
+      </ErrorBoundary>
+   
   );
+}
+
+
+
+
+class ErrorBoundary extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { hasError: false };
+  }
+
+  static getDerivedStateFromError(error) {
+    // Cập nhật state để hiển thị giao diện fallback
+    return { hasError: true };
+  }
+
+  componentDidCatch(error, errorInfo) {
+    // Bạn có thể log lỗi vào một service logging ở đây
+    console.error("ErrorBoundary caught an error:", error, errorInfo);
+  }
+
+  render() {
+    if (this.state.hasError) {
+      // Giao diện fallback khi có lỗi
+      return <h1>Something went wrong.</h1>;
+    }
+
+    return this.props.children;
+  }
 }

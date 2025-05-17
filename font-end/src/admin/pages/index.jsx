@@ -44,16 +44,17 @@ const AdminPage = () => {
                     selectedKeys={[selectedKey]}
                     onClick={({ key }) => setSelectedKey(key)}
                 >
-                    <Menu.Item
-                        key='/admin/dashboard'
+                                        <Menu.Item
+                        key='/admin/statistics/revenue'
                         style={
-                            selectedKey === '/admin/dashboard'
+                            selectedKey === '/admin/statistics/revenue'
                                 ? { background: 'black', color: 'white' }
                                 : {}
                         }
                     >
-                        <Link to='/admin/dashboard'>Doanh thu bán hàng</Link>
+                        <Link to='/admin/statistics/revenue'>Quản lý doanh thu</Link>
                     </Menu.Item>
+
                     <Menu.Item
                         key='/admin/products'
                         style={

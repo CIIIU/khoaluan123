@@ -11,7 +11,7 @@ function AboutCompany(props) {
                     <div className='aban__bg'>
                         <img
                             style={{height:"fitContent"}}
-                            src='https://curnonwatch.com/wp-content/uploads/2024/04/ANN_8524-Edit.jpg'
+                            src='https://th.bing.com/th/id/OIP.3KtxMFQyoOs9Gtl0tkSTowHaEK?rs=1&pid=ImgDetMain'
                             alt='About Company'
                         />
                     </div>
