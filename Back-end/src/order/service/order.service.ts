@@ -33,7 +33,7 @@ export class OrderService {
 
   async createOrder(createOrderDto: CreateOrderDto) {
     let totalAmount = 0;
-    let productIds = [];
+    const productIds = [];
     createOrderDto.products.forEach((product) => {
       totalAmount += product.quantity * product.price;
       productIds.push(product.productId);
@@ -164,19 +164,19 @@ export class OrderService {
   }
   async getRevenueStatistics() {
     const orders = await this.orderRepository.getAll();
-  
+
     let totalRevenue = 0;
     let successRevenue = 0;
     let pendingRevenue = 0;
-  
-    let totalOrders = orders.length;
+
+    const totalOrders = orders.length;
     let successOrders = 0;
     let pendingOrders = 0;
-  
+
     for (const order of orders) {
       const amount = order.totalAmount || 0;
       totalRevenue += amount;
-  
+
       if (order.status === 'success') {
         successRevenue += amount;
         successOrders += 1;
@@ -193,5 +193,5 @@ export class OrderService {
       successOrders,
       pendingOrders,
     };
-}
+  }
 }

@@ -39,7 +39,7 @@ function DefaultComponent({ children }) {
         <div>
             <Header />
             <div style={contentStyle}>{children}</div>
-            <ChatBot />
+            {/* <ChatBot /> */}
             <AppFooter />
         </div>
     );

@@ -1,9 +1,10 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 import { Inject, Injectable, forwardRef } from '@nestjs/common';
 import { Response, Request } from 'express';
 import { OrderService } from 'src/order/service/order.service';
 const axios = require('axios').default;
 const CryptoJS = require('crypto-js');
-const moment = require('moment'); 
+const moment = require('moment');
 
 const config = {
   app_id: '2553',
@@ -37,7 +38,7 @@ export class PaymentService {
       mac: '',
       // cho url vào đây
       callback_url:
-      '  https://b3a5-42-113-220-47.ngrok-free.app/api/payment/zalopayCallback',
+        '  https://1fd2-1-55-210-199.ngrok-free.app/api/payment/zalopayCallback',
     };
 
     // appid|app_trans_id|appuser|amount|apptime|embeddata|item

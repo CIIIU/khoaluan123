@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import { List, Card, Spin, Alert, Modal, Typography, Row, Col } from 'antd';
+import { List, Card, Spin, Alert, Modal, Typography, Row, Col, Button, message } from 'antd';
 import { format as formatDate } from 'date-fns';
 import { vi } from 'date-fns/locale';
 import orderApi from '../../../api/ordersApi';
 import { formatPrice } from '../../../utils';
+import axios from 'axios';
 
 const OrderHistory = () => {
     const userId = localStorage.getItem('userId');
@@ -12,6 +13,7 @@ const OrderHistory = () => {
     const [error, setError] = useState(null);
     const [selectedOrder, setSelectedOrder] = useState(null);
     const [isModalVisible, setIsModalVisible] = useState(false);
+    const [cancelLoading, setCancelLoading] = useState(false);
 
     useEffect(() => {
         const fetchOrderHistory = async () => {
@@ -100,6 +102,53 @@ const OrderHistory = () => {
         }
     };
 
+    // Cancel order function
+    const handleCancelOrder = async (orderId) => {
+        Modal.confirm({
+            title: 'Xác nhận hủy đơn hàng',
+            content: 'Bạn có chắc chắn muốn hủy đơn hàng này?',
+            okText: 'Hủy đơn',
+            cancelText: 'Không',
+            onOk: async () => {
+                setCancelLoading(true);
+                try {
+                    const userToken = localStorage.getItem('user_token');
+                    await axios.put(
+                        `http://localhost:5000/api/orders/${orderId}/status`,
+                        { status: 'canceled' },
+                        userToken
+                            ? { headers: { Authorization: `Bearer ${userToken}` } }
+                            : undefined
+                    );
+                    setOrders(prev =>
+                        prev.map(order =>
+                            order._id === orderId
+                                ? { ...order, status: 'canceled', shippingStatus: 'canceled' }
+                                : order
+                        )
+                    );
+                    if (selectedOrder && selectedOrder._id === orderId) {
+                        setSelectedOrder({
+                            ...selectedOrder,
+                            status: 'canceled',
+                            shippingStatus: 'canceled'
+                        });
+                    }
+                    message.success('Đơn hàng đã được hủy thành công!');
+                } catch (err) {
+                    console.error('Error canceling order:', err);
+                    message.error(
+                        err.response?.data?.message ||
+                        err.message ||
+                        'Không thể hủy đơn hàng. Vui lòng thử lại.'
+                    );
+                } finally {
+                    setCancelLoading(false);
+                }
+            }
+        });
+    };
+
     if (loading) {
         return <Spin tip="Đang tải lịch sử đặt hàng..." />;
     }
@@ -148,7 +197,21 @@ const OrderHistory = () => {
                     title={`Chi tiết đơn hàng ${selectedOrder._id}`}
                     visible={isModalVisible}
                     onCancel={handleCancel}
-                    footer={null}
+                    footer={[
+                        <Button
+                            key="cancel"
+                            danger
+                            loading={cancelLoading}
+                            disabled={
+                                selectedOrder.status === 'canceled' ||
+                                selectedOrder.shippingStatus === 'canceled'
+                            }
+                            onClick={() => handleCancelOrder(selectedOrder._id)}
+                        >
+                            Hủy đơn hàng
+                        </Button>,
+                        <Button key="close" onClick={handleCancel}>Đóng</Button>
+                    ]}
                 >
                     <Card
                         bordered={false}

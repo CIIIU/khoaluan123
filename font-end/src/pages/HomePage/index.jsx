@@ -14,11 +14,10 @@ function HomePage(props) {
     >
       <section className="wrapper__home">
           <div className='wrapper__home__content'>
-            <h1>New Detroit
-            Arrival </h1>
-            <h3>Redefined !</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, ut ipsa? Impedit suscipit voluptates in delectus debitis sapiente labore unde assumenda, quae vel a modi ratione accusamus dignissimos ab rem!</p>
-            <a href="products" className="wrapper__home__content__button">SHOP NOW</a>
+            <h1>Tân binh mới </h1>
+            <h3>Định nghĩa chuẩn mực !</h3>
+            <p>Hwatch là website chuyên cung cấp các mẫu đồng hồ thời trang và cao cấp, cam kết chính hãng 100%, đa dạng mẫu mã, phù hợp nhiều phong cách với dịch vụ giao hàng nhanh và chính sách bảo hành uy tín.</p>
+            <a href="products" className="wrapper__home__content__button">MUA NGAY</a>
           </div>
 
           <div className='wrapper__home__image'>

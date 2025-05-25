@@ -124,6 +124,23 @@ const OrderPage = () => {
             fetchOrder();
         }
     }, [orderId]);
+    //dieu huong ve trang thanh cong khi thanh toan thanh cong
+    // useEffect(() => {
+    //     if (isIframeVisible) {
+    //         const handleMessage = (event) => {
+    //             if (event.data === 'payment_success') {
+    //                 setIsIframeVisible(false);
+    //                 navigate('/success-page');
+    //             }
+    //         };
+
+    //         window.addEventListener('message', handleMessage);
+
+    //         return () => {
+    //             window.removeEventListener('message', handleMessage);
+    //         };
+    //     }
+    // }, [isIframeVisible, navigate]);
     return (
         <Box style={{ marginTop: '100px' }}>
             <Container style={{ marginTop: '120px', width: '1072px' }}>

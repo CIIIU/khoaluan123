@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import { Table, Tag, Space, Modal, Select, Button } from 'antd';
 import axios from 'axios';
@@ -15,12 +14,16 @@ const OrderManagement = () => {
   useEffect(() => {
     axios.get('http://localhost:5000/api/orders')
       .then(response => {
-        setOrders(response.data);
+        // Sắp xếp từ mới nhất đến lâu nhất
+        const sortedOrders = response.data.sort(
+          (a, b) => new Date(b.orderDate) - new Date(a.orderDate)
+        );
+        setOrders(sortedOrders);
       })
       .catch(error => {
         console.error('There was an error fetching the orders!', error);
       });
-  }, [orders]);
+  }, []);
 
   const handleOpenModal = (order) => {
     setSelectedOrder(order);
